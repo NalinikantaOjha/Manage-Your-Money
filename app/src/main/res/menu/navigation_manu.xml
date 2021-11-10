@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menuHome"
+    android:icon="@drawable/ic_baseline_attach_money_24"
+    android:title="INCOME">
+</item>
+    <item
+        android:id="@+id/menuPortfolio"
+        android:icon="@drawable/ic_baseline_money_off_24"
+        android:title="EXPENSE">
+    </item>
+    <item
+
+        android:id="@+id/menuRewards"
+        android:icon="@drawable/ic_baseline_transfer_within_a_station_24"
+        android:title="HISTORY">
+    </item>
+
+</menu>
